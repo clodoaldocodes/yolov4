@@ -39,8 +39,8 @@ Run the following command to perform object detection on the image:
 
 ```
 python yolo-object-detection.py --image image.jpg
-Replace image.jpg with the name of your image file.
 ```
+Replace image.jpg with the name of your image file.
 
 The output will be a list of detected objects printed to the console.
 
