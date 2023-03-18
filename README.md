@@ -29,7 +29,7 @@ Alternatively, you can download the files manually from the Darknet website.
 Usage
 After installing the dependencies and downloading the necessary files, we can use the Python code to perform object detection on an image. Here's how:
 
-Clone this repository or download the yolo-object-detection.py file.
+Clone this repository or download the yoloMainV4.py file.
 
 Place the image you want to detect objects in the same directory as the yoloMainV4.py file.
 
