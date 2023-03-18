@@ -38,7 +38,7 @@ Open a terminal or command prompt and navigate to the directory where the yolo-o
 Run the following command to perform object detection on the image:
 
 ```
-python yolo-object-detection.py --image image.jpg
+python yoloMainV4.py --image image.jpg
 ```
 Replace image.jpg with the name of your image file.
 
