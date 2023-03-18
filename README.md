@@ -31,9 +31,9 @@ After installing the dependencies and downloading the necessary files, we can us
 
 Clone this repository or download the yolo-object-detection.py file.
 
-Place the image you want to detect objects in the same directory as the yolo-object-detection.py file.
+Place the image you want to detect objects in the same directory as the yoloMainV4.py file.
 
-Open a terminal or command prompt and navigate to the directory where the yolo-object-detection.py file and the image are located.
+Open a terminal or command prompt and navigate to the directory where the yoloMainV4.py file and the image are located.
 
 Run the following command to perform object detection on the image:
 
